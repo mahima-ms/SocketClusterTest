@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SocketCluster</string>
+    <string name="title_activity_simple_queue">SimpleQueue</string>
+</resources>
